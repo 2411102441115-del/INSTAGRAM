@@ -11,7 +11,10 @@ body {
     padding: 12px 0;
 }
 header img {
-  border: 2px solid #ddd;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 2px solid #ddd;
 }
 header h2 {
   font-weight: 600;
