@@ -5,8 +5,10 @@ body {
 }
 
 /* Header */
-header {
-  background-color: #fff;
+.profile-header {
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+    padding: 12px 0;
 }
 header img {
   border: 2px solid #ddd;
@@ -35,10 +37,4 @@ header h2 {
 footer {
   background-color: #fff;
   font-size: 0.85rem;
-}
-
-.profile-header {
-    background-color: white;
-    border-bottom: 1px solid #ddd;
-    padding: 12px 0;
 }
